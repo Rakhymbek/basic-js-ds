@@ -24,7 +24,6 @@ class Queue {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   }
-
   dequeue() {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
